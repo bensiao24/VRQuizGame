@@ -1,0 +1,10 @@
+What is 7 * 8?|54|56|64|78|56
+What is 10 + 5 * 2?|20|30|25|17|20
+What is 1/2 + 1/4?|3/4|1/2|2/6|3/8|3/4
+What is 25% of 80?|10|15|20|25|20
+If 3x - 5 = 10, what is x?|3|4|5|6|5
+What is the area of a square with side length 5?|10|15|20|25|25
+What is the perimeter of a rectangle with length 7 and width 3?|10|20|21|28|20
+A baker made 50 cookies and sold 35. How many are left?|10|15|20|25|15
+What is 3 to the power of 3?|6|9|27|81|27
+What is the square root of 64?|6|7|8|9|8
